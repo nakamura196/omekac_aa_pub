@@ -1,0 +1,794 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://raw.githubusercontent.com/nakamura196/omekac_aa/master/docs/curation/top.json",
+    "@type": "cr:Curation",
+    "label": "0021",
+    "selections": [
+        {
+            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_aa/master/docs/curation/top.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=1671,503,17,25",
+                    "@type": "sc:Canvas",
+                    "label": "0021-22",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=1671,503,17,25",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=1671,503,17,25",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：NNE<br/>angle：0",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "NNE"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=1182,83,17,25",
+                    "@type": "sc:Canvas",
+                    "label": "0021-09",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=1182,83,17,25",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=1182,83,17,25",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：NNW<br/>angle：0",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "NNW"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=1028,194,17,25",
+                    "@type": "sc:Canvas",
+                    "label": "0021-15",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=1028,194,17,25",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=1028,194,17,25",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：NW<br/>angle：60",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "NW"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 60
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=1022,791,17,25",
+                    "@type": "sc:Canvas",
+                    "label": "0021-07",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=1022,791,17,25",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=1022,791,17,25",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：NE<br/>angle：75",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "NE"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 75
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=585,188,17,25",
+                    "@type": "sc:Canvas",
+                    "label": "0021-21",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=585,188,17,25",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=585,188,17,25",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：WWN<br/>angle：45",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "WWN"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 45
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=549,275,17,25",
+                    "@type": "sc:Canvas",
+                    "label": "0021-03",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=549,275,17,25",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=549,275,17,25",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：WWN<br/>angle：45",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "WWN"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 45
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=555,308,9,14",
+                    "@type": "sc:Canvas",
+                    "label": "0021-02",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=555,308,9,14",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=555,308,9,14",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：WWN<br/>angle：30",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "WWN"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 30
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=551,370,15,23",
+                    "@type": "sc:Canvas",
+                    "label": "0021-01",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=551,370,15,23",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=551,370,15,23",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：WWN<br/>angle：90",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "WWN"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 90
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=962,557,15,23",
+                    "@type": "sc:Canvas",
+                    "label": "0021-08",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=962,557,15,23",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=962,557,15,23",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：NNE<br/>angle：30",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "NNE"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 30
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=891,551,15,23",
+                    "@type": "sc:Canvas",
+                    "label": "0021-05",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=891,551,15,23",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=891,551,15,23",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：NNE<br/>angle：45",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "NNE"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 45
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=932,545,15,23",
+                    "@type": "sc:Canvas",
+                    "label": "0021-06",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=932,545,15,23",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=932,545,15,23",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：NNE<br/>angle：-15",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "NNE"
+                        },
+                        {
+                            "label": "angle",
+                            "value": -15
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=767,560,15,23",
+                    "@type": "sc:Canvas",
+                    "label": "0021-19",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=767,560,15,23",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=767,560,15,23",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：NNE<br/>angle：45",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "NNE"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 45
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=650,554,15,23",
+                    "@type": "sc:Canvas",
+                    "label": "0021-14",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=650,554,15,23",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=650,554,15,23",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：SSW<br/>angle：75",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "SSW"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 75
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=625,549,15,23",
+                    "@type": "sc:Canvas",
+                    "label": "0021-13",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=625,549,15,23",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=625,549,15,23",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：SSW<br/>angle：0",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "SSW"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=634,500,15,23",
+                    "@type": "sc:Canvas",
+                    "label": "0021-20",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=634,500,15,23",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=634,500,15,23",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：EES<br/>angle：60",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "EES"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 60
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=689,560,11,16",
+                    "@type": "sc:Canvas",
+                    "label": "0021-10",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=689,560,11,16",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=689,560,11,16",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：SSW<br/>angle：0",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "SSW"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=670,560,11,16",
+                    "@type": "sc:Canvas",
+                    "label": "0021-11",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=670,560,11,16",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=670,560,11,16",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：NNE<br/>angle：60",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "NNE"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 60
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=736,474,11,16",
+                    "@type": "sc:Canvas",
+                    "label": "0021-12",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=736,474,11,16",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=736,474,11,16",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：WWN<br/>angle：60",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "WWN"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 60
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=828,562,9,14",
+                    "@type": "sc:Canvas",
+                    "label": "0021-18",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=828,562,9,14",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=828,562,9,14",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：NNE<br/>angle：60",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "NNE"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 60
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=837,480,9,14",
+                    "@type": "sc:Canvas",
+                    "label": "0021-16",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=837,480,9,14",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=837,480,9,14",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：NNW<br/>angle：0",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "NNW"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=548,603,9,14",
+                    "@type": "sc:Canvas",
+                    "label": "0021-17",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=548,603,9,14",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=548,603,9,14",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：0<br/>angle：90",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "0"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 90
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=333,327,15,23",
+                    "@type": "sc:Canvas",
+                    "label": "0021-04",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=333,327,15,23",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p18#xywh=333,327,15,23",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "cardinal directions：WWN<br/>angle：0",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "cardinal directions",
+                            "value": "WWN"
+                        },
+                        {
+                            "label": "angle",
+                            "value": 0
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/manifest",
+                "@type": "sc:Manifest",
+                "label": "図面"
+            }
+        }
+    ],
+    "viewingHint": "annotation"
+}
