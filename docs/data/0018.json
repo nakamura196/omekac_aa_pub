@@ -27,7 +27,7 @@
                                     "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p13#xywh=910,521,15,23",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "cardinal directions：WWN<br/>angle：0",
+                                        "chars": "id: <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&pos=4' target='_blank'>0018-04</a><br/>cardinal directions：WWN<br/>angle：0<br/><br/><iframe frameborder='no' src='https://universalviewer.io/examples/uv/uv.html#?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&cv=3' width='300px' height='500px'/>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
@@ -62,7 +62,7 @@
                                     "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p13#xywh=850,1079,15,23",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "cardinal directions：<br/>angle：45",
+                                        "chars": "id: <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&pos=5' target='_blank'>0018-05</a><br/>cardinal directions：<br/>angle：45<br/><br/><iframe frameborder='no' src='https://universalviewer.io/examples/uv/uv.html#?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&cv=4' width='300px' height='500px'/>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
@@ -97,7 +97,7 @@
                                     "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p13#xywh=817,1057,15,23",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "cardinal directions：NW<br/>angle：0",
+                                        "chars": "id: <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&pos=12' target='_blank'>0018-12</a><br/>cardinal directions：NW<br/>angle：0<br/><br/><iframe frameborder='no' src='https://universalviewer.io/examples/uv/uv.html#?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&cv=11' width='300px' height='500px'/>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
@@ -132,7 +132,7 @@
                                     "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p13#xywh=820,1080,15,23",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "cardinal directions：NNE<br/>angle：60",
+                                        "chars": "id: <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&pos=13' target='_blank'>0018-13</a><br/>cardinal directions：NNE<br/>angle：60<br/><br/><iframe frameborder='no' src='https://universalviewer.io/examples/uv/uv.html#?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&cv=12' width='300px' height='500px'/>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
@@ -167,7 +167,7 @@
                                     "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p13#xywh=629,961,12,17",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "cardinal directions：EES<br/>angle：45",
+                                        "chars": "id: <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&pos=3' target='_blank'>0018-03</a><br/>cardinal directions：EES<br/>angle：45<br/><br/><iframe frameborder='no' src='https://universalviewer.io/examples/uv/uv.html#?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&cv=2' width='300px' height='500px'/>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
@@ -202,7 +202,7 @@
                                     "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p13#xywh=636,867,18,28",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "cardinal directions：EES<br/>angle：0",
+                                        "chars": "id: <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&pos=4' target='_blank'>0018-04</a><br/>cardinal directions：EES<br/>angle：0<br/><br/><iframe frameborder='no' src='https://universalviewer.io/examples/uv/uv.html#?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&cv=3' width='300px' height='500px'/>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
@@ -237,7 +237,7 @@
                                     "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p13#xywh=645,744,18,28",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "cardinal directions：EES<br/>angle：30",
+                                        "chars": "id: <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&pos=6' target='_blank'>0018-06</a><br/>cardinal directions：EES<br/>angle：30<br/><br/><iframe frameborder='no' src='https://universalviewer.io/examples/uv/uv.html#?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&cv=5' width='300px' height='500px'/>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
@@ -272,7 +272,7 @@
                                     "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p13#xywh=657,718,9,14",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "cardinal directions：EES<br/>angle：30",
+                                        "chars": "id: <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&pos=8' target='_blank'>0018-08</a><br/>cardinal directions：EES<br/>angle：30<br/><br/><iframe frameborder='no' src='https://universalviewer.io/examples/uv/uv.html#?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&cv=7' width='300px' height='500px'/>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
@@ -307,7 +307,7 @@
                                     "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p13#xywh=659,687,9,14",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "cardinal directions：EES<br/>angle：0",
+                                        "chars": "id: <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&pos=7' target='_blank'>0018-07</a><br/>cardinal directions：EES<br/>angle：0<br/><br/><iframe frameborder='no' src='https://universalviewer.io/examples/uv/uv.html#?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&cv=6' width='300px' height='500px'/>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
@@ -342,7 +342,7 @@
                                     "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p13#xywh=742,972,9,14",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "cardinal directions：NE<br/>angle：75",
+                                        "chars": "id: <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&pos=1' target='_blank'>0018-01</a><br/>cardinal directions：NE<br/>angle：75<br/><br/><iframe frameborder='no' src='https://universalviewer.io/examples/uv/uv.html#?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&cv=0' width='300px' height='500px'/>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
@@ -377,7 +377,7 @@
                                     "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p13#xywh=709,836,9,14",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "cardinal directions：NNW<br/>angle：60",
+                                        "chars": "id: <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&pos=9' target='_blank'>0018-09</a><br/>cardinal directions：NNW<br/>angle：60<br/><br/><iframe frameborder='no' src='https://universalviewer.io/examples/uv/uv.html#?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&cv=8' width='300px' height='500px'/>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
@@ -412,7 +412,7 @@
                                     "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p13#xywh=583,956,9,14",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "cardinal directions：WWN<br/>angle：30",
+                                        "chars": "id: <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&pos=10' target='_blank'>0018-10</a><br/>cardinal directions：WWN<br/>angle：30<br/><br/><iframe frameborder='no' src='https://universalviewer.io/examples/uv/uv.html#?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&cv=9' width='300px' height='500px'/>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
@@ -447,7 +447,7 @@
                                     "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p13#xywh=533,942,9,14",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "cardinal directions：WWN<br/>angle：30",
+                                        "chars": "id: <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&pos=11' target='_blank'>0018-11</a><br/>cardinal directions：WWN<br/>angle：30<br/><br/><iframe frameborder='no' src='https://universalviewer.io/examples/uv/uv.html#?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&cv=10' width='300px' height='500px'/>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
@@ -482,7 +482,7 @@
                                     "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/blueprint_20210826/canvas/p16#xywh=514,1458,16,25",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "cardinal directions：E<br/>angle：45",
+                                        "chars": "id: <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&pos=3' target='_blank'>0018-03</a><br/>cardinal directions：E<br/>angle：45<br/><br/><iframe frameborder='no' src='https://universalviewer.io/examples/uv/uv.html#?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument18/manifest&cv=2' width='300px' height='500px'/>",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/files/legend/間切.png#xy=12,22",
