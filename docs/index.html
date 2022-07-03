@@ -1,0 +1,39 @@
+<html>
+  <div id="counter">
+      <ul>
+          <li v-for="(item, key) in items" :key="key" style="margin-bottom: 8px">
+              [{{item}}]
+              <a target="_blank" :href="`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=${prefix}${item}.json`">
+                  {{`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=${prefix}${item}.json`}}
+              </a>
+          </li></div>
+
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/3.0.2/vue.global.js"></script> -->
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script type="module">
+    //import { createApp } from 'https://cdnjs.cloudflare.com/ajax/libs/vue/3.0.2/vue.esm-browser.js';
+    import * as Vue from "https://cdnjs.cloudflare.com/ajax/libs/vue/3.0.2/vue.esm-browser.js";
+
+    const CounterApp = {
+      data() {
+        return {
+          items: [],
+          prefix: "https://nakamura196.github.io/omekac_aa_pub/data/"
+        };
+      },
+      mounted() {
+        /*
+        setInterval(() => {
+          this.counter++;
+        }, 1000);
+        */
+        var self = this;
+        axios.get("data/ids.json").then(function (res) {
+          self.items = res.data;
+        });
+      },
+    };
+
+    Vue.createApp(CounterApp).mount("#counter");
+  </script>
+</html>
